@@ -1,11 +1,18 @@
-{
+* {
 	text-align: center;
 }
-h1 {
-	color: #d63e73;
-	font-family: dotted;
-}
-body {
-	background-image: url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjT2M7xorPdAhXyzVkKHf-oCIYQjRx6BAgBEAU&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D729403464&psig=AOvVaw0L13jNwqvN4KdCirJihBqm&ust=1536766343361062);
 
+h1{
+	color :#ffa53f;
+}
+
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlPVs48W0DECO0S8u0nSXBmCr4_vw_OGkUbrzdUOc02pQgrvG);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img, iframe {
+	width: 750px;
+	height:	360px;
 }
