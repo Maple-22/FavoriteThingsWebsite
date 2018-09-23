@@ -2,12 +2,23 @@
 	text-align: center;
 }
 
+h2{
+	color: black;
+	font-size: 30px;
+	text-decoration: underline;
+}
 h1{
-	color :#ffa53f;
+	text-align: center;
+	color: black;
+	font-size: 40px;
+    width: 700px;
+    border: 15px solid purple;
+    padding: 10px;
+    margin: 30px;
 }
 
 body{
-	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlPVs48W0DECO0S8u0nSXBmCr4_vw_OGkUbrzdUOc02pQgrvG);
+	background-image: url(https://k61.kn3.net/3/9/3/A/5/7/6C0.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
