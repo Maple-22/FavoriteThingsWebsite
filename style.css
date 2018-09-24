@@ -3,7 +3,7 @@
 }
 
 h2{
-	color: black;
+	color: white;
 	font-size: 30px;
 	text-decoration: underline;
 }
@@ -18,12 +18,12 @@ h1{
 }
 
 body{
-	background-image: url(https://k61.kn3.net/3/9/3/A/5/7/6C0.jpg);
+	background-image: url(https://altcointoday.com/wp-content/uploads/2017/04/City-View-From-Mexico-City-Apartments-Apartments-in-Kansas-City-North.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 img, iframe {
-	width: 750px;
+	width: 640px;
 	height:	360px;
 }
